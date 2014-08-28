@@ -7,3 +7,5 @@ Requires python3 and PyQT5 framework installed.
 
 Very basic browser, basically just a rendering engine (Using webkit)
 and an address bar that takes in "http://www.{x}.{y}" addresses.
+
+To run, type `python3 client_qt.py` in the terminal.
